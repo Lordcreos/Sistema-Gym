@@ -1,0 +1,243 @@
+[02-Jan-2019 22:43:54 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/dbcon.php on line 2
+[02-Jan-2019 22:43:54 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:43:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 12
+[02-Jan-2019 22:46:57 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:02 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/customer.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:09 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:13 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/devolver.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:16 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:18 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:22 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/devolver.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:29 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/devolver.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[02-Jan-2019 22:47:32 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/devolver.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[03-Jan-2019 11:47:41 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/arrendarok/pages/logout.php on line 22
+[12-Jan-2019 10:10:28 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[12-Jan-2019 23:11:06 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/arrendarok/pages/logout.php on line 22
+[13-Jan-2019 07:48:38 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fuseygjj/recetadecocina.net/arrendarok/pages/arrendar.php:2) in /home/fuseygjj/recetadecocina.net/arrendarok/pages/session.php on line 2
+[13-Jan-2019 20:48:41 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/arrendarok/pages/logout.php on line 22
+[05-Mar-2019 23:45:29 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[06-Mar-2019 00:17:43 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[06-Mar-2019 01:25:02 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[06-Mar-2019 08:43:23 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[06-Mar-2019 08:44:38 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[06-Mar-2019 08:55:22 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[05-Mar-2019 19:58:32 America/New_York] PHP Notice:  Undefined variable: row in /home/fuseygjj/recetadecocina.net/apsystem/pages/provincia.php on line 74
+[06-Mar-2019 09:12:06 Asia/Manila] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/apsystem/pages/logout.php on line 22
+[05-Mar-2019 20:39:32 America/New_York] PHP Notice:  Undefined variable: row in /home/fuseygjj/recetadecocina.net/apsystem/pages/provincia.php on line 74
+[05-Mar-2019 20:39:44 America/New_York] PHP Notice:  Undefined variable: row in /home/fuseygjj/recetadecocina.net/apsystem/pages/provincia.php on line 74
+[05-Mar-2019 20:39:55 America/New_York] PHP Notice:  Undefined variable: row in /home/fuseygjj/recetadecocina.net/apsystem/pages/provincia.php on line 74
+[05-Mar-2019 20:40:03 America/New_York] PHP Notice:  Undefined variable: row in /home/fuseygjj/recetadecocina.net/apsystem/pages/provincia.php on line 74
+[05-Mar-2019 20:40:07 America/New_York] PHP Notice:  Undefined variable: row in /home/fuseygjj/recetadecocina.net/apsystem/pages/provincia.php on line 74
+[16-Apr-2019 18:36:18 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 18:51:19 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 20:30:11 America/Mexico_City] PHP Notice:  Undefined variable: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_paso1.php on line 127
+[16-Apr-2019 20:30:11 America/Mexico_City] PHP Notice:  Undefined variable: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_paso1.php on line 127
+[16-Apr-2019 20:32:18 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 11
+[16-Apr-2019 20:32:18 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 29
+[16-Apr-2019 20:32:18 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/sidebar.php on line 2
+[16-Apr-2019 21:00:55 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:06:58 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:07:18 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 21:07:18 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 21:07:18 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 21:07:18 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:07:46 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:11:00 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:11:06 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:11:43 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/buscar_por_mes.php on line 47
+[16-Apr-2019 21:11:55 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/buscar_por_mes.php on line 47
+[16-Apr-2019 21:12:06 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/buscar_por_mes.php on line 47
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 11
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 29
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/sidebar.php on line 2
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 21:12:18 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:12:46 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:15:45 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:19:12 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:13 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:14 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:15 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:19:16 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 18
+[16-Apr-2019 21:19:16 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[16-Apr-2019 21:25:37 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:25:49 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:25:55 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:26:06 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/buscar_por_mes.php on line 47
+[16-Apr-2019 21:26:26 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:28:28 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:28:45 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:29:11 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:32:31 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 21:32:31 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 21:32:31 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 21:32:31 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:32:50 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:33:10 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:37:32 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:37:34 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:37:35 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:37:36 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:37:37 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:37:39 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:12 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:13 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:13 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:15 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:15 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:15 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:16 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:17 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:17 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:38:18 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:40:25 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:41:08 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 11
+[16-Apr-2019 21:41:08 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 29
+[16-Apr-2019 21:41:08 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/sidebar.php on line 2
+[16-Apr-2019 21:41:08 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:41:42 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:42:06 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 11
+[16-Apr-2019 21:42:06 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 29
+[16-Apr-2019 21:42:06 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/sidebar.php on line 2
+[16-Apr-2019 21:42:06 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:42:24 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:43:12 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 11
+[16-Apr-2019 21:43:12 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/session.php on line 29
+[16-Apr-2019 21:43:12 America/Mexico_City] PHP Notice:  Undefined index: id in /home/fuseygjj/recetadecocina.net/sys_flete/pages/sidebar.php on line 2
+[16-Apr-2019 21:43:12 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:43:32 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:43:49 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 21:44:11 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/buscar_por_mes.php on line 47
+[16-Apr-2019 21:47:43 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:49:54 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 21:58:32 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:00:32 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:01:17 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:01:19 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:01:20 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:02:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:02:15 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:04:23 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 147
+[16-Apr-2019 22:04:24 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 147
+[16-Apr-2019 22:04:25 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 147
+[16-Apr-2019 22:04:25 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 147
+[16-Apr-2019 22:04:25 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 147
+[16-Apr-2019 22:04:26 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 147
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: num in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 151
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: nombre in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 155
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: origen in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 158
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: destino in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 159
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 160
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: estado_pagado in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 161
+[16-Apr-2019 22:05:19 America/Mexico_City] PHP Notice:  Undefined index: total_descuentos in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 163
+[16-Apr-2019 22:06:40 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:06:43 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:06:45 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[16-Apr-2019 22:08:00 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/buscar_por_mes.php on line 47
+[16-Apr-2019 22:09:16 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:10:30 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:10:33 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:10:33 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:10:33 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:10:33 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:11:28 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:11:28 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:11:28 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:11:28 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:11:29 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:11:29 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:11:29 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:11:29 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:11:47 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:11:47 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:11:47 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:11:47 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:11:49 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:11:49 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:11:49 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:11:49 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:11:50 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:11:50 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:11:50 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:11:50 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:12:22 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:12:22 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:12:22 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:12:22 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:12:23 America/Mexico_City] PHP Notice:  Undefined index: id_camion in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 37
+[16-Apr-2019 22:12:23 America/Mexico_City] PHP Notice:  Undefined index: mes in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 38
+[16-Apr-2019 22:12:23 America/Mexico_City] PHP Notice:  Undefined index: anio in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 39
+[16-Apr-2019 22:12:23 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:13:58 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/reporte_por_mes.php on line 46
+[16-Apr-2019 22:24:23 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[17-Apr-2019 21:41:25 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:41:34 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:41:38 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:41:41 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:43:12 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:44:08 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:45:45 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:46:25 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_viajes.php on line 150
+[17-Apr-2019 21:47:22 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_descuentos_camion.php on line 50
+[17-Apr-2019 21:47:36 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_descuentos_camion.php on line 50
+[17-Apr-2019 21:49:01 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_descuentos_camion.php on line 50
+[17-Apr-2019 21:49:05 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_descuentos_camion.php on line 50
+[17-Apr-2019 21:49:50 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/fuseygjj/recetadecocina.net/sys_flete/pages/lista_descuentos_camion.php on line 50
+[17-Apr-2019 21:52:49 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[17-Apr-2019 21:55:28 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/sys_flete/pages/logout.php on line 22
+[18-Apr-2019 07:14:25 America/Mexico_City] PHP Notice:  Undefined index: debo in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 28
+[18-Apr-2019 07:14:25 America/Mexico_City] PHP Notice:  Undefined index: num_antiguo in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 36
+[18-Apr-2019 07:14:25 America/Mexico_City] PHP Notice:  Undefined index: total_descuentos in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 37
+[18-Apr-2019 07:15:34 America/Mexico_City] PHP Notice:  Undefined index: debo in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 28
+[18-Apr-2019 07:15:34 America/Mexico_City] PHP Notice:  Undefined index: num_antiguo in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 36
+[18-Apr-2019 07:15:34 America/Mexico_City] PHP Notice:  Undefined index: total_descuentos in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 37
+[18-Apr-2019 07:21:58 America/Mexico_City] PHP Notice:  Undefined index: debo in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 28
+[18-Apr-2019 07:21:58 America/Mexico_City] PHP Notice:  Undefined index: num_antiguo in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 36
+[18-Apr-2019 07:21:58 America/Mexico_City] PHP Notice:  Undefined index: total_descuentos in /home/fuseygjj/recetadecocina.net/sys_flete/pages/comprobante_actualizar.php on line 37
+[08-May-2019 07:57:37 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 12:20:32 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 12:31:06 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 12:42:00 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 12:44:38 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 12:55:35 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:35:26 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:36:08 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:37:34 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:38:30 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:42:01 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:46:10 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:50:50 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:51:26 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 14:54:48 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 15:18:43 America/Mexico_City] PHP Notice:  Use of undefined constant sum - assumed 'sum' in /home/fuseygjj/recetadecocina.net/peluqueria/pages/generar_pdf.php on line 475
+[08-May-2019 15:28:44 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
+[08-May-2019 16:13:13 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fuseygjj/recetadecocina.net/peluqueria/pages/logout.php on line 22
